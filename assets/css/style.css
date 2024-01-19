@@ -250,6 +250,11 @@ footer p{
 .main-event img{
     height: 565px;
     width: 1085px;
+    margin-bottom: 73px;
+}
+
+.section2{
+    margin-bottom: 120px;
 }
 
 
